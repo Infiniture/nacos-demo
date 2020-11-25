@@ -33,7 +33,7 @@
       DataId: nacos-config.yml
       配置格式: YAML
       配置内容: nacos:
-      			    config: hello nacos!
+      	   config: hello nacos!
       ```
 
       访问`http://localhost:8080/getValue`，可以读取到配置`hello nacos!`
